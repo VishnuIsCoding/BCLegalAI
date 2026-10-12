@@ -1,0 +1,189 @@
+[
+  {
+    "chunk_id": "disputes_cheating_cheque_tenancy.txt_p1_1",
+    "text": "# Common Indian Legal Disputes, Fraud Recovery, Cheque Dishonour, Tenancy, and Employment Law ## Cheating, Fraud, and Cybercrime in India 1. Cheating under BNS (Section 318 BNS 2023 / Section 420 IPC): Whoever cheats and thereby dishonestly induces the person deceived to deliver any property, or to make, alter or destroy the whole or any part of a valuable security, is punishable with imprisonment of either description for a term which may extend to 7 years, and shall also be liable to fine. 2. Online Cyber Fraud & Impersonation (Sections 66C and 66D IT Act, 2000): Cheating by personation using any communication device or computer resource carries imprisonment up to 3 years and a fine up to Rs. 1 lakh. 3. Urgent Legal Remedies for Financial Scam / Cheating Victims: - Golden Hours Reporting: Immediately call National Cyber Crime Helpline '1930' or lodge a report on the National Cyber Crime Reporting Portal (cybercrime.gov.in) to trigger automatic banking freeze on suspect beneficiary bank accounts. - FIR under Section 173 BNSS 2023 (formerly Section 154 CrPC) at the local police station or Cyber Crime Police Station. Zero FIR can be lodged at any police station across India irrespective of jurisdiction. - Complaint to Magistrate: If police refuse to register FIR, submit a representation to the Superintendent of Police under Section 173(4) BNSS, or file a complaint before the Judicial Magistrate under Section 175(3) BNSS (formerly Section 156(3) CrPC) or Section 223 BNSS.",
+    "document": "disputes_cheating_cheque_tenancy.txt",
+    "page": 1,
+    "section": "Section 138",
+    "title": "Disputes, Cheating Recovery, Cheque Dishonour, Tenancy, and Employment Law",
+    "jurisdiction": "India",
+    "date": "2024-07-01",
+    "version": "In Force"
+  },
+  {
+    "chunk_id": "disputes_cheating_cheque_tenancy.txt_p1_2",
+    "text": "any police station across India irrespective of jurisdiction. - Complaint to Magistrate: If police refuse to register FIR, submit a representation to the Superintendent of Police under Section 173(4) BNSS, or file a complaint before the Judicial Magistrate under Section 175(3) BNSS (formerly Section 156(3) CrPC) or Section 223 BNSS. ## Dishonour of Cheque (Section 138 Negotiable Instruments Act, 1881) 1. Statutory Grounds: Where any cheque drawn by a person on an account maintained with a banker for payment of any amount of money is returned unpaid, either because of the insufficiency of funds or exceeding arrangements, such person shall be deemed to have committed an offence. 2. Punishment: Imprisonment for a term which may extend to 2 years, or with fine which may extend to twice the amount of the cheque, or with both. 3. Mandatory Procedural Conditions and Timeline: - Cheque Presentation: Cheque must be presented to the bank within its validity period (3 months from issuance date). - Bank Memo: Complainant receives written return memo noting reasons (e.g., 'Funds Insufficient'). - Statutory Notice: Payee must issue a formal legal demand notice in writing to the drawer within 30 days of receiving the return memo. - 15-Day Cure Period: The drawer has 15 calendar days from receipt of the notice to pay the full cheque amount. - Filing Complaint: If payment is not made within 15 days, cause of action arises. A criminal complaint under Section 142 NI Act must be filed within 1 month thereafter before the Judicial Magistrate First Class or Metropolitan Magistrate having territorial jurisdiction. 4. Interim Compensation (Section 143A NI Act): The trial court may order the drawer of the cheque to deposit interim compensation not exceeding 20% of the cheque amount.",
+    "document": "disputes_cheating_cheque_tenancy.txt",
+    "page": 1,
+    "section": "Order XXXVII of the Code of Civil Procedure, 1908 (CPC) for recovery of liquidated debt, or approach the Rent Authority under the applicable State Tenancy / Rent Control Act or Model Tenancy Act.",
+    "title": "Disputes, Cheating Recovery, Cheque Dishonour, Tenancy, and Employment Law",
+    "jurisdiction": "India",
+    "date": "2024-07-01",
+    "version": "In Force"
+  },
+  {
+    "chunk_id": "disputes_cheating_cheque_tenancy.txt_p1_3",
+    "text": "142 NI Act must be filed within 1 month thereafter before the Judicial Magistrate First Class or Metropolitan Magistrate having territorial jurisdiction. 4. Interim Compensation (Section 143A NI Act): The trial court may order the drawer of the cheque to deposit interim compensation not exceeding 20% of the cheque amount. ## Landlord-Tenant Disputes and Security Deposit Recovery 1. Return of Security Deposit: The security deposit is held in trust by the landlord and must be refunded upon the tenant peacefully surrendering possession, subject only to deductions for mutually agreed unpaid rent or actual physical damages (excluding normal wear and tear). 2. Remedies for Unlawful Withholding: - Send a formal statutory legal demand notice demanding refund with interest within 15 days. - Institute a Summary Suit under Order XXXVII of the Code of Civil Procedure, 1908 (CPC) for recovery of liquidated debt, or approach the Rent Authority under the applicable State Tenancy / Rent Control Act or Model Tenancy Act. 3. Eviction Protections: A landlord cannot forcibly evict a tenant, lock premises, or cut off essential amenities (water/electricity). Eviction can only be sought through lawful eviction petition on recognized statutory grounds (e.g., non-payment of rent, bonafide personal requirement, sub-letting without consent). ## Employment Disputes and Unpaid Salary Recovery 1. Unpaid Salary and Terminal Benefits: Withholding earned wages or salary violates the Payment of Wages Act, 1936, the Industrial Disputes Act, 1947, and the employment contract. 2. Legal Recourse: - Issue a formal legal notice through an advocate demanding unpaid salary, notice pay, and reimbursement within 15 days. - Approach the Labour Commissioner or file an online grievance via the Ministry of Labour & Employment SAMADHAN portal. - Recovery application under Section 33C(2) of the Industrial Disputes Act, 1947, or Summary Suit under Order 37 CPC in Civil Court. 3. Gratuity (Payment of Gratuity Act, 1972): Payable to employees who have rendered continuous service for not less than 5 years upon termination, retirement, or resignation, calculated at 15 days' wages for every completed year of service.",
+    "document": "disputes_cheating_cheque_tenancy.txt",
+    "page": 1,
+    "section": "Section 33C",
+    "title": "Disputes, Cheating Recovery, Cheque Dishonour, Tenancy, and Employment Law",
+    "jurisdiction": "India",
+    "date": "2024-07-01",
+    "version": "In Force"
+  },
+  {
+    "chunk_id": "information_technology_act_2000.txt_p1_1",
+    "text": "# Information Technology Act, 2000 (Amended) ## Overview and Legal Framework The Information Technology Act, 2000 (IT Act) provides legal recognition for electronic transactions, e-commerce, digital signatures, and establishes offences relating to computer systems, data theft, hacking, and cybercrimes in India. ## Section 43 - Penalty and Compensation for Damage to Computer System Provides liability for unauthorized access, downloading or copying data without permission, introducing viruses/malware, damaging data or computer networks, or denying authorized access. The offender is liable to pay damages by way of compensation to the affected person. ## Section 43A - Compensation for Failure to Protect Data Where a body corporate, possessing, dealing or handling any sensitive personal data or information (SPDI) in a computer resource which it owns, controls or operates, is negligent in implementing and maintaining reasonable security practices and procedures and thereby causes wrongful loss or wrongful gain to any person, such body corporate is liable to pay damages by way of compensation to the affected person. ## Section 66 - Computer Related Offences (Hacking) If any person, dishonestly or fraudulently, does any act referred to in Section 43, he shall be punishable with imprisonment for a term which may extend to three years or with fine which may extend to five lakh rupees, or with both. ## Section 66D - Cheating by Personation by using Computer Resource Whoever, by means for any communication device or computer resource, cheats by personation, shall be punished with imprisonment of either description for a term which may extend to three years and shall also be liable to fine which may extend to one lakh rupees. This applies to online financial frauds, phishing, and fake profiles.",
+    "document": "information_technology_act_2000.txt",
+    "page": 1,
+    "section": "Section 79 - Intermediary Liability and Safe Harbor",
+    "title": "Information Technology Act, 2000 (Act No. 21 of 2000)",
+    "jurisdiction": "India",
+    "date": "2000-06-09",
+    "version": "In Force (Amended by Act 10 of 2009)"
+  },
+  {
+    "chunk_id": "information_technology_act_2000.txt_p1_2",
+    "text": "any communication device or computer resource, cheats by personation, shall be punished with imprisonment of either description for a term which may extend to three years and shall also be liable to fine which may extend to one lakh rupees. This applies to online financial frauds, phishing, and fake profiles. ## Section 79 - Intermediary Liability and Safe Harbor An intermediary (such as social media platforms, cloud hosts, ISPs) shall not be liable for any third party information, data, or communication link made available or hosted by it, provided the intermediary's function is limited to providing access and it exercises 'due diligence' while discharging its duties under the IT Rules, and expeditiously removes or disables access upon receiving actual knowledge of unlawful content.",
+    "document": "information_technology_act_2000.txt",
+    "page": 1,
+    "section": "Section 79 - Intermediary Liability and Safe Harbor",
+    "title": "Information Technology Act, 2000 (Act No. 21 of 2000)",
+    "jurisdiction": "India",
+    "date": "2000-06-09",
+    "version": "In Force (Amended by Act 10 of 2009)"
+  },
+  {
+    "chunk_id": "constitution_basics.txt_p1_1",
+    "text": "# Constitution of India - Fundamental Framework & Rights ## Preamble The Preamble to the Constitution of India declares India to be a Sovereign, Socialist, Secular, Democratic Republic and secures to all its citizens Justice (social, economic, and political), Liberty (of thought, expression, belief, faith, and worship), Equality (of status and of opportunity), and Fraternity assuring the dignity of the individual and the unity and integrity of the Nation. ## Article 14 - Right to Equality The State shall not deny to any person equality before the law or the equal protection of the laws within the territory of India. This principle prohibits arbitrary discrimination by state authorities and establishes the doctrine of reasonable classification. ## Article 19 - Protection of Certain Rights Regarding Freedom of Speech, etc. Article 19(1)(a) guarantees all citizens the right to freedom of speech and expression, subject to reasonable restrictions under Article 19(2) in the interests of sovereignty and integrity of India, security of the State, public order, decency, morality, or in relation to contempt of court, defamation, or incitement to an offence. ## Article 21 - Protection of Life and Personal Liberty No person shall be deprived of his life or personal liberty except according to procedure established by law. The Supreme Court has expanded Article 21 to include the right to privacy (K.S. Puttaswamy judgment), right to livelihood, right to a clean environment, right to speedy trial, and right to dignity. ## Article 32 - Remedies for Enforcement of Fundamental Rights The right to move the Supreme Court by appropriate proceedings for the enforcement of fundamental rights is guaranteed. The Supreme Court has the power to issue directions, orders, or writs, including writs in the nature of habeas corpus, mandamus, prohibition, quo warranto, and certiorari. Dr. B.R. Ambedkar termed Article 32 the \"heart and soul\" of the Constitution.",
+    "document": "constitution_basics.txt",
+    "page": 1,
+    "section": "Article 226 - Power of High Courts to Issue Certain Writs",
+    "title": "Constitution of India - Fundamental Rights and Judicial Remedies",
+    "jurisdiction": "Republic of India",
+    "date": "1950-01-26",
+    "version": "Amended up to 106th Constitutional Amendment Act"
+  },
+  {
+    "chunk_id": "constitution_basics.txt_p1_2",
+    "text": "by appropriate proceedings for the enforcement of fundamental rights is guaranteed. The Supreme Court has the power to issue directions, orders, or writs, including writs in the nature of habeas corpus, mandamus, prohibition, quo warranto, and certiorari. Dr. B.R. Ambedkar termed Article 32 the \"heart and soul\" of the Constitution. ## Article 226 - Power of High Courts to Issue Certain Writs Every High Court has jurisdiction under Article 226 throughout the territories in relation to which it exercises jurisdiction to issue to any person or authority writs for the enforcement of Fundamental Rights and for \"any other purpose\", giving High Courts a wider writ jurisdiction than Article 32.",
+    "document": "constitution_basics.txt",
+    "page": 1,
+    "section": "Article 226 - Power of High Courts to Issue Certain Writs",
+    "title": "Constitution of India - Fundamental Rights and Judicial Remedies",
+    "jurisdiction": "Republic of India",
+    "date": "1950-01-26",
+    "version": "Amended up to 106th Constitutional Amendment Act"
+  },
+  {
+    "chunk_id": "indian_contract_act_1872.txt_p1_1",
+    "text": "# Indian Contract Act, 1872 ## Section 2(h) - Definition of Contract An agreement enforceable by law is a contract. An agreement arises when an offer (proposal) is accepted with valid consideration. If an agreement cannot be enforced by law, it is void under Section 2(g). ## Section 2(d) - Consideration When, at the desire of the promisor, the promisee or any other person has done or abstained from doing, or does or abstains from doing, or promises to do or to abstain from doing, something, such act or abstinence or promise is called a consideration for the promise. In Indian law, consideration may move from the promisee or any other person (doctrine of constructive consideration). Past consideration is valid in India. ## Section 10 - What Agreements are Contracts All agreements are contracts if they are made by the free consent of parties competent to contract, for a lawful consideration and with a lawful object, and are not hereby expressly declared to be void. ## Section 11 - Who are Competent to Contract Every person is competent to contract who is of the age of majority according to the law to which he is subject, and who is of sound mind, and is not disqualified from contracting by any law to which he is subject. An agreement entered into by a minor is void ab initio (Mohori Bibee v. Dharmodas Ghose). ## Section 73 - Compensation for Loss or Damage Caused by Breach of Contract When a contract has been broken, the party who suffers by such breach is entitled to receive, from the party who has broken the contract, compensation for any loss or damage caused to him thereby, which naturally arose in the usual course of things from such breach, or which the parties knew, when they made the contract, to be likely to result from the breach of it. Such compensation is not to be given for any remote and indirect loss or damage sustained by reason of the breach. This embodies the rule in Hadley v. Baxendale.",
+    "document": "indian_contract_act_1872.txt",
+    "page": 1,
+    "section": "Section 74 - Compensation for Breach of Contract where Penalty Stipulated for",
+    "title": "Indian Contract Act, 1872 (Act No. 9 of 1872)",
+    "jurisdiction": "India",
+    "date": "1872-04-25",
+    "version": "In Force"
+  },
+  {
+    "chunk_id": "indian_contract_act_1872.txt_p1_2",
+    "text": "breach, or which the parties knew, when they made the contract, to be likely to result from the breach of it. Such compensation is not to be given for any remote and indirect loss or damage sustained by reason of the breach. This embodies the rule in Hadley v. Baxendale. ## Section 74 - Compensation for Breach of Contract where Penalty Stipulated for When a contract has been broken, if a sum is named in the contract as the amount to be paid in case of such breach, or if the contract contains any other stipulation by way of penalty, the party complaining of the breach is entitled, whether or not actual damage or loss is proved to have been caused thereby, to receive from the party who has broken the contract reasonable compensation not exceeding the amount so named or the penalty stipulated for.",
+    "document": "indian_contract_act_1872.txt",
+    "page": 1,
+    "section": "Section 74 - Compensation for Breach of Contract where Penalty Stipulated for",
+    "title": "Indian Contract Act, 1872 (Act No. 9 of 1872)",
+    "jurisdiction": "India",
+    "date": "1872-04-25",
+    "version": "In Force"
+  },
+  {
+    "chunk_id": "bail_family_property_rights.txt_p1_1",
+    "text": "# Criminal Bail, Maintenance, Domestic Violence, Family Law, and Property Inheritance in India ## Anticipatory Bail and Criminal Bail Procedures 1. Anticipatory Bail (Section 482 BNSS 2023 / Formerly Section 438 CrPC): - Definition: Direction for grant of bail to a person having reasonable apprehension of arrest in a non-bailable offence. - Forum: Application must be filed before the Sessions Court or the High Court. - Judicial Considerations: Courts examine gravity and seriousness of accusation, criminal antecedents of the applicant, possibility of applicant fleeing from justice, and whether the accusation appears motivated to injure or humiliate. - Interim Protection: Courts frequently grant interim anticipatory bail or protection against coercive action pending final disposal, conditional upon applicant cooperating with police interrogation. 2. Regular Bail (Section 480 & 483 BNSS 2023 / Formerly Sections 437 & 439 CrPC): - Applied after an accused has been arrested or remanded to police/judicial custody. - Factors: Severity of punishment, character of evidence, risk of witness tampering, and health/medical grounds. 3. Default Bail / Statutory Bail (Section 187 BNSS 2023 / Formerly Section 167(2) CrPC): - Indefeasible statutory right to release on bail if police fail to file the chargesheet within 60 days (for offences punishable up to 10 years) or 90 days (for offences punishable with death, life imprisonment, or 10+ years). ## Maintenance for Wives, Children, and Parents (Section 144 BNSS 2023 / Section 125 CrPC) 1. Statutory Right to Maintenance: If any person having sufficient means neglects or refuses to maintain his wife (unable to maintain herself), legitimate or illegitimate minor children, or father/mother unable to maintain themselves, a Magistrate of the First Class may order monthly maintenance allowance. 2. Interim Maintenance: The court must endeavor to dispose of the application for interim maintenance within 60 days from the date of service of notice to the respondent. 3. Enforcement: Warrant for recovery of arrears of maintenance can be issued, and default may result in imprisonment up to one month for each month's unpaid maintenance.",
+    "document": "bail_family_property_rights.txt",
+    "page": 1,
+    "section": "Section 12",
+    "title": "Criminal Bail, Maintenance, Domestic Violence, and Property Inheritance",
+    "jurisdiction": "India",
+    "date": "2024-07-01",
+    "version": "In Force"
+  },
+  {
+    "chunk_id": "bail_family_property_rights.txt_p1_2",
+    "text": "must endeavor to dispose of the application for interim maintenance within 60 days from the date of service of notice to the respondent. 3. Enforcement: Warrant for recovery of arrears of maintenance can be issued, and default may result in imprisonment up to one month for each month's unpaid maintenance. ## Domestic Violence Remedies (Protection of Women from Domestic Violence Act, 2005 - PWDVA) 1. Broad Scope of Domestic Violence: Includes physical abuse, sexual abuse, verbal and emotional abuse, and economic abuse (depriving of financial resources or stridhan). 2. Key Statutory Reliefs under Section 12 Application: - Section 18 Protection Orders: Prohibiting respondent from committing acts of domestic violence, entering place of employment, or communicating with the aggrieved woman. - Section 19 Residence Orders: Restraining respondent from dispossessing the woman from the shared household, regardless of whether she has any legal right, title, or equity in the premises. - Section 20 Monetary Relief: Directing payment for medical expenses, loss of earnings, and maintenance. - Section 21 Custody Orders: Temporary custody of children to the aggrieved woman. - Section 23 Ex-Parte Interim Orders: Magistrate has power to pass immediate ex-parte orders on affidavit. ## Hindu Succession and Ancestral Property Rights 1. Equal Coparcenary Rights for Daughters (Section 6 Hindu Succession Act, 1956, as amended in 2005): - Under the landmark Supreme Court ruling in Vineeta Sharma v. Rakesh Sharma (2020), daughters have equal coparcenary rights by birth in ancestral property with the same rights and liabilities as sons, irrespective of whether the father was alive on September 9, 2005. 2. Partition of Ancestral Property: Any coparcener or co-owner may demand partition and, upon refusal, file a Civil Suit for Partition and Separate Possession before the Civil Court having territorial and pecuniary jurisdiction. 3. Execution and Validity of Wills (Indian Succession Act, 1925): A valid Will under Section 63 must be in writing, signed or marked by the testator, and attested by at least two witnesses in the testator's presence.",
+    "document": "bail_family_property_rights.txt",
+    "page": 1,
+    "section": "Section 6",
+    "title": "Criminal Bail, Maintenance, Domestic Violence, and Property Inheritance",
+    "jurisdiction": "India",
+    "date": "2024-07-01",
+    "version": "In Force"
+  },
+  {
+    "chunk_id": "criminal_law_framework.txt_p1_1",
+    "text": "# Current Indian Criminal Law Framework (BNS & BNSS) with Transition Context ## Legislative Overview and Status of Laws in Force As of July 1, 2024, the criminal law framework in India has been modernized: 1. The Bharatiya Nyaya Sanhita, 2023 (BNS) replaced the colonial Indian Penal Code, 1860 (IPC) for substantive criminal offences. 2. The Bharatiya Nagarik Suraksha Sanhita, 2023 (BNSS) replaced the Code of Criminal Procedure, 1973 (CrPC) for procedural criminal law. 3. The Bharatiya Sakshya Adhiniyam, 2023 (BSA) replaced the Indian Evidence Act, 1872. Note: Offences committed prior to July 1, 2024 continue to be investigated, tried, and sentenced under IPC and CrPC provisions. Offences committed on or after July 1, 2024 are governed by BNS and BNSS. ## First Information Report (FIR) - Section 173 BNSS (Formerly Section 154 CrPC) Under Section 173 of the Bharatiya Nagarik Suraksha Sanhita, 2023 (BNSS): 1. Every information relating to the commission of a cognizable offence, if given orally to an officer in charge of a police station, shall be reduced to writing and signed by the informant. 2. Zero FIR: Information can be given irrespective of the territorial jurisdiction of the police station where the offence occurred, and shall be transferred to the jurisdictional police station. 3. E-FIR / Electronic Communication: Information can be given electronically, provided it is signed within three days by the person giving it. 4. Preliminary Enquiry: In cases punishable with imprisonment between 3 to 7 years, a preliminary enquiry may be conducted within 14 days before proceeding with full investigation, subject to prior permission of a Deputy Superintendent of Police. 5. Remedy on Refusal: If the police station in-charge refuses to record the FIR, the aggrieved person may send substance of the information to the Superintendent of Police under Section 173(4) BNSS, or approach the Magistrate under Section 175(3) BNSS (formerly Section 156(3) CrPC).",
+    "document": "criminal_law_framework.txt",
+    "page": 1,
+    "section": "Section 478",
+    "title": "Current Indian Criminal Law Framework (BNS & BNSS, 2023 with IPC/CrPC Transition)",
+    "jurisdiction": "India",
+    "date": "2024-07-01",
+    "version": "In Force from 1 July 2024"
+  },
+  {
+    "chunk_id": "criminal_law_framework.txt_p1_2",
+    "text": "of a Deputy Superintendent of Police. 5. Remedy on Refusal: If the police station in-charge refuses to record the FIR, the aggrieved person may send substance of the information to the Superintendent of Police under Section 173(4) BNSS, or approach the Magistrate under Section 175(3) BNSS (formerly Section 156(3) CrPC). ## Bail Provisions - Chapter XXXV BNSS (Sections 478 to 485 BNSS, Formerly Sections 436 to 439 CrPC) Bail is a mechanism to secure the release of an accused person from custody upon furnishing an undertaking or security/bond to appear before the court. 1. Bailable Offences (Section 478 BNSS / Formerly Sec 436 CrPC): In bailable offences, bail is a matter of absolute statutory right. The accused must be released on furnishing adequate bail bonds or personal recognizance. 2. Non-Bailable Offences (Section 480 BNSS / Formerly Sec 437 CrPC): Bail in non-bailable offences is discretionary. Courts consider gravity of offence, likelihood of fleeing, tampering with witnesses, and severity of punishment. 3. Anticipatory Bail (Section 482 BNSS / Formerly Sec 438 CrPC): Direction for grant of bail to a person apprehending arrest. An application must be made before the High Court or Sessions Court. The court may impose conditions such as cooperating with interrogation and not leaving India. 4. Relief for First-Time Offenders / Undertrials (Section 479 BNSS / Formerly Sec 436A CrPC): A first-time offender (never previously convicted) who has undergone detention for up to one-third of the maximum period of imprisonment shall be released on bail on a personal bond. ## Common Offence Mapping (BNS vs. IPC) - Cheating: Defined under Section 318 BNS (formerly Section 415/420 IPC). Punishable with imprisonment up to 7 years and fine. - Criminal Breach of Trust: Defined under Section 316 BNS (formerly Section 405/406 IPC). - Defamation: Defined under Section 356 BNS (formerly Section 499/500 IPC), now offering community service as an alternative punishment. - Murder: Defined under Section 101 BNS (formerly Section 300/302 IPC).",
+    "document": "criminal_law_framework.txt",
+    "page": 1,
+    "section": "Section 318",
+    "title": "Current Indian Criminal Law Framework (BNS & BNSS, 2023 with IPC/CrPC Transition)",
+    "jurisdiction": "India",
+    "date": "2024-07-01",
+    "version": "In Force from 1 July 2024"
+  },
+  {
+    "chunk_id": "consumer_protection_act_2019.txt_p1_1",
+    "text": "# Consumer Protection Act, 2019 ## Overview and Purpose The Consumer Protection Act, 2019 replaced the old Consumer Protection Act, 1986. It establishes the Central Consumer Protection Authority (CCPA) to promote, protect, and enforce the rights of consumers, regulate unfair trade practices, misleading advertisements, and provides a streamlined three-tier dispute redressal mechanism. ## Section 2(7) - Definition of Consumer A \"consumer\" is any person who buys any goods or hires/avails of any services for a consideration which has been paid or promised or partly paid. It includes offline and online (e-commerce) transactions, but excludes a person who obtains goods for resale or for any commercial purpose (except self-employment livelihood). ## Section 2(9) - Consumer Rights The Act guarantees six fundamental consumer rights: 1. The right to be protected against marketing of goods, products or services which are hazardous to life and property. 2. The right to be informed of quality, quantity, potency, purity, standard and price of goods or services. 3. The right to be assured of access to a variety of goods or services at competitive prices. 4. The right to be heard and assured that consumer interests will receive due consideration. 5. The right to seek redressal against unfair trade practices or restrictive trade practices or unscrupulous exploitation. 6. The right to consumer awareness and education. ## Section 2(47) - Unfair Trade Practice Includes false representation regarding quality, standard, grade, or sponsorship of goods/services, false warranty/guarantee, misleading price statements, non-issuance of bill/cash memo, and refusing to take back defective goods or refund money within the period stipulated.",
+    "document": "consumer_protection_act_2019.txt",
+    "page": 1,
+    "section": "Section 2",
+    "title": "Consumer Protection Act, 2019 (Act No. 35 of 2019)",
+    "jurisdiction": "India",
+    "date": "2019-08-09",
+    "version": "In Force (Replaced 1986 Act)"
+  },
+  {
+    "chunk_id": "consumer_protection_act_2019.txt_p1_2",
+    "text": "exploitation. 6. The right to consumer awareness and education. ## Section 2(47) - Unfair Trade Practice Includes false representation regarding quality, standard, grade, or sponsorship of goods/services, false warranty/guarantee, misleading price statements, non-issuance of bill/cash memo, and refusing to take back defective goods or refund money within the period stipulated. ## Three-Tier Dispute Redressal Commissions (Pecuniary Jurisdiction) 1. District Consumer Disputes Redressal Commission (DCDRC): Entertains complaints where value of goods or services paid does not exceed Fifty Lakh Rupees (Rs. 50 Lakhs). 2. State Consumer Disputes Redressal Commission (SCDRC): Entertains complaints where value exceeds Rs. 50 Lakhs but does not exceed Two Crore Rupees (Rs. 2 Crores), and appeals against District Commission orders. 3. National Consumer Disputes Redressal Commission (NCDRC): Entertains complaints where value exceeds Two Crore Rupees (Rs. 2 Crores), and appeals against State Commission orders. E-filing of complaints through the 'edaakhil' portal is legally permitted.",
+    "document": "consumer_protection_act_2019.txt",
+    "page": 1,
+    "section": "Section 2",
+    "title": "Consumer Protection Act, 2019 (Act No. 35 of 2019)",
+    "jurisdiction": "India",
+    "date": "2019-08-09",
+    "version": "In Force (Replaced 1986 Act)"
+  },
+  {
+    "chunk_id": "civil_law_and_notices.txt_p1_1",
+    "text": "# Civil Law, Legal Notices, and Injunctions in India ## Legal Notice - Nature and Purpose A legal notice is a formal written communication sent by an advocate on behalf of a client to an opposing party informing them of legal grievances, stating the cause of action, demanding compliance or restitution within a specified period (typically 15 to 30 days), and declaring the intent to initiate civil or criminal legal proceedings upon non-compliance. ## Essential Elements of a Legal Notice 1. Identity: Complete names, descriptions, and addresses of the sender and recipient. 2. Facts and Grievance: Clear chronological statement of facts constituting the cause of action. 3. Legal Relief/Demand: Specific relief claimed (e.g., payment of outstanding dues, rectification of breach, cessation of infringement). 4. Time Frame: A reasonable stipulated time period to respond or comply (commonly 15 to 30 days). 5. Consequence of Failure: Express notification that failure to comply will result in appropriate legal remedies at the recipient's cost and consequence. ## Statutory Legal Notices under Specific Acts 1. Section 80 of Code of Civil Procedure, 1908 (CPC): Mandatory two-month prior written notice to the Government or a public officer before instituting any suit against them in respect of any act purporting to be done in their official capacity. 2. Section 138 of Negotiable Instruments Act, 1881: Mandatory statutory demand notice within 30 days of receiving information from the bank regarding dishonour/bounce of a cheque. The drawer has 15 days from notice receipt to pay; if unpaid, a criminal complaint may be filed within 1 month thereafter.",
+    "document": "civil_law_and_notices.txt",
+    "page": 1,
+    "section": "Section 38",
+    "title": "Civil Law Principles, Statutory Legal Notices & Injunctions",
+    "jurisdiction": "India",
+    "date": "1908 / 1963 / 1881",
+    "version": "In Force"
+  },
+  {
+    "chunk_id": "civil_law_and_notices.txt_p1_2",
+    "text": "official capacity. 2. Section 138 of Negotiable Instruments Act, 1881: Mandatory statutory demand notice within 30 days of receiving information from the bank regarding dishonour/bounce of a cheque. The drawer has 15 days from notice receipt to pay; if unpaid, a criminal complaint may be filed within 1 month thereafter. ## Civil Injunctions under Specific Relief Act, 1963 and CPC 1. Temporary Injunction (Order 39, Rules 1 and 2 of CPC): An interlocutory order granted by court during the pendency of a suit to restrain the defendant from causing damage, alienation, or breach. The applicant must prove three ingredients: (a) Prima facie case, (b) Balance of convenience in applicant's favor, and (c) Irreparable injury if injunction is not granted. 2. Perpetual Injunction (Section 38 Specific Relief Act, 1963): Granted by decree after a full trial on merits to perpetually prevent breach of an obligation existing in favor of the plaintiff.",
+    "document": "civil_law_and_notices.txt",
+    "page": 1,
+    "section": "Section 38",
+    "title": "Civil Law Principles, Statutory Legal Notices & Injunctions",
+    "jurisdiction": "India",
+    "date": "1908 / 1963 / 1881",
+    "version": "In Force"
+  }
+]

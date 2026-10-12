@@ -1,0 +1,66 @@
+{
+  "constitution_basics.txt": {
+    "title": "Constitution of India - Fundamental Rights and Judicial Remedies",
+    "date": "1950-01-26",
+    "version": "Amended up to 106th Constitutional Amendment Act",
+    "jurisdiction": "Republic of India",
+    "source": "Legislative Department, Ministry of Law and Justice, Government of India",
+    "sections": ["Preamble", "Article 14", "Article 19", "Article 21", "Article 32", "Article 226"]
+  },
+  "indian_contract_act_1872.txt": {
+    "title": "Indian Contract Act, 1872 (Act No. 9 of 1872)",
+    "date": "1872-04-25",
+    "version": "In Force",
+    "jurisdiction": "India",
+    "source": "India Code / Ministry of Law and Justice",
+    "sections": ["Section 2(h)", "Section 2(d)", "Section 10", "Section 11", "Section 73", "Section 74"]
+  },
+  "consumer_protection_act_2019.txt": {
+    "title": "Consumer Protection Act, 2019 (Act No. 35 of 2019)",
+    "date": "2019-08-09",
+    "version": "In Force (Replaced 1986 Act)",
+    "jurisdiction": "India",
+    "source": "Ministry of Consumer Affairs, Food and Public Distribution, Government of India",
+    "sections": ["Section 2(7)", "Section 2(9)", "Section 2(47)", "Chapter IV Dispute Redressal Commissions"]
+  },
+  "information_technology_act_2000.txt": {
+    "title": "Information Technology Act, 2000 (Act No. 21 of 2000)",
+    "date": "2000-06-09",
+    "version": "In Force (Amended by Act 10 of 2009)",
+    "jurisdiction": "India",
+    "source": "Ministry of Electronics and Information Technology (MeitY)",
+    "sections": ["Section 43", "Section 43A", "Section 66", "Section 66D", "Section 79"]
+  },
+  "criminal_law_framework.txt": {
+    "title": "Current Indian Criminal Law Framework (BNS & BNSS, 2023 with IPC/CrPC Transition)",
+    "date": "2024-07-01",
+    "version": "In Force from 1 July 2024",
+    "jurisdiction": "India",
+    "source": "Ministry of Home Affairs / Gazette of India",
+    "sections": ["Section 173 BNSS", "Section 478-485 BNSS", "Section 482 BNSS", "Section 318 BNS", "Section 316 BNS"]
+  },
+  "civil_law_and_notices.txt": {
+    "title": "Civil Law Principles, Statutory Legal Notices & Injunctions",
+    "date": "1908 / 1963 / 1881",
+    "version": "In Force",
+    "jurisdiction": "India",
+    "source": "Code of Civil Procedure, 1908; Specific Relief Act, 1963; NI Act, 1881",
+    "sections": ["Section 80 CPC", "Section 138 NI Act", "Order 39 Rules 1-2 CPC", "Section 38 SRA"]
+  },
+  "disputes_cheating_cheque_tenancy.txt": {
+    "title": "Disputes, Cheating Recovery, Cheque Dishonour, Tenancy, and Employment Law",
+    "date": "2024-07-01",
+    "version": "In Force",
+    "jurisdiction": "India",
+    "source": "BNS 2023, BNSS 2023, NI Act 1881, TP Act 1882, Payment of Wages Act 1936",
+    "sections": ["Section 318 BNS", "Section 138 NI Act", "Section 142 NI Act", "Order 37 CPC", "Section 106 TPA", "Section 66D IT Act"]
+  },
+  "bail_family_property_rights.txt": {
+    "title": "Criminal Bail, Maintenance, Domestic Violence, and Property Inheritance",
+    "date": "2024-07-01",
+    "version": "In Force",
+    "jurisdiction": "India",
+    "source": "BNSS 2023, PWDVA 2005, Hindu Succession Act 1956, Indian Succession Act 1925",
+    "sections": ["Section 482 BNSS", "Section 480 BNSS", "Section 144 BNSS", "Section 12 PWDVA", "Section 6 Hindu Succession Act", "Section 63 ISA"]
+  }
+}

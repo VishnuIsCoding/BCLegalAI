@@ -1,0 +1,19 @@
+# Constitution of India - Fundamental Framework & Rights
+
+## Preamble
+The Preamble to the Constitution of India declares India to be a Sovereign, Socialist, Secular, Democratic Republic and secures to all its citizens Justice (social, economic, and political), Liberty (of thought, expression, belief, faith, and worship), Equality (of status and of opportunity), and Fraternity assuring the dignity of the individual and the unity and integrity of the Nation.
+
+## Article 14 - Right to Equality
+The State shall not deny to any person equality before the law or the equal protection of the laws within the territory of India. This principle prohibits arbitrary discrimination by state authorities and establishes the doctrine of reasonable classification.
+
+## Article 19 - Protection of Certain Rights Regarding Freedom of Speech, etc.
+Article 19(1)(a) guarantees all citizens the right to freedom of speech and expression, subject to reasonable restrictions under Article 19(2) in the interests of sovereignty and integrity of India, security of the State, public order, decency, morality, or in relation to contempt of court, defamation, or incitement to an offence.
+
+## Article 21 - Protection of Life and Personal Liberty
+No person shall be deprived of his life or personal liberty except according to procedure established by law. The Supreme Court has expanded Article 21 to include the right to privacy (K.S. Puttaswamy judgment), right to livelihood, right to a clean environment, right to speedy trial, and right to dignity.
+
+## Article 32 - Remedies for Enforcement of Fundamental Rights
+The right to move the Supreme Court by appropriate proceedings for the enforcement of fundamental rights is guaranteed. The Supreme Court has the power to issue directions, orders, or writs, including writs in the nature of habeas corpus, mandamus, prohibition, quo warranto, and certiorari. Dr. B.R. Ambedkar termed Article 32 the "heart and soul" of the Constitution.
+
+## Article 226 - Power of High Courts to Issue Certain Writs
+Every High Court has jurisdiction under Article 226 throughout the territories in relation to which it exercises jurisdiction to issue to any person or authority writs for the enforcement of Fundamental Rights and for "any other purpose", giving High Courts a wider writ jurisdiction than Article 32.

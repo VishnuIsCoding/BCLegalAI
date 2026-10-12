@@ -1,0 +1,320 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 950" width="100%" height="100%">
+  <defs>
+    <!-- 24K Luxury Royal Gold Gradients -->
+    <linearGradient id="luxGoldMain" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#FFF8D6" />
+      <stop offset="25%" stop-color="#F3D079" />
+      <stop offset="50%" stop-color="#D4A034" />
+      <stop offset="75%" stop-color="#AA771C" />
+      <stop offset="100%" stop-color="#6E4807" />
+    </linearGradient>
+
+    <linearGradient id="luxGoldBright" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#FFFFFF" />
+      <stop offset="20%" stop-color="#FFEAA7" />
+      <stop offset="55%" stop-color="#E2B142" />
+      <stop offset="100%" stop-color="#936209" />
+    </linearGradient>
+
+    <linearGradient id="luxGoldDark" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#543705" />
+      <stop offset="50%" stop-color="#996914" />
+      <stop offset="100%" stop-color="#402802" />
+    </linearGradient>
+
+    <!-- Imperial Velvet (Inside Royal Crown) -->
+    <linearGradient id="royalVelvet" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#800A1A" />
+      <stop offset="50%" stop-color="#580410" />
+      <stop offset="100%" stop-color="#2D0208" />
+    </linearGradient>
+
+    <!-- Silk Satin Phantom Gradients (Lustrous White Silk) -->
+    <linearGradient id="silkBody" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#FFFFFF" />
+      <stop offset="40%" stop-color="#FAF8F5" />
+      <stop offset="75%" stop-color="#EBE5DA" />
+      <stop offset="100%" stop-color="#D5CBB9" />
+    </linearGradient>
+
+    <linearGradient id="silkShadowDeep" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#2D2821" stop-opacity="0.35" />
+      <stop offset="100%" stop-color="#14110C" stop-opacity="0.75" />
+    </linearGradient>
+
+    <linearGradient id="silkFoldLeft" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#FFFFFF" stop-opacity="0.9" />
+      <stop offset="70%" stop-color="#DFD7C7" stop-opacity="0.4" />
+      <stop offset="100%" stop-color="#BDB09A" stop-opacity="0.7" />
+    </linearGradient>
+
+    <linearGradient id="silkFoldRight" x1="100%" y1="0%" x2="0%" y2="0%">
+      <stop offset="0%" stop-color="#FFFFFF" stop-opacity="0.9" />
+      <stop offset="70%" stop-color="#DFD7C7" stop-opacity="0.4" />
+      <stop offset="100%" stop-color="#BDB09A" stop-opacity="0.7" />
+    </linearGradient>
+
+    <!-- Pearl Luminance -->
+    <radialGradient id="pearlShine" cx="35%" cy="35%" r="65%">
+      <stop offset="0%" stop-color="#FFFFFF" />
+      <stop offset="60%" stop-color="#E2E8F0" />
+      <stop offset="100%" stop-color="#94A3B8" />
+    </radialGradient>
+
+    <!-- Royal Gem Ruby / Emerald -->
+    <radialGradient id="royalRuby" cx="30%" cy="30%" r="70%">
+      <stop offset="0%" stop-color="#FF5975" />
+      <stop offset="50%" stop-color="#C50E29" />
+      <stop offset="100%" stop-color="#5C000E" />
+    </radialGradient>
+
+    <radialGradient id="royalEmerald" cx="30%" cy="30%" r="70%">
+      <stop offset="0%" stop-color="#55EFC4" />
+      <stop offset="50%" stop-color="#00B894" />
+      <stop offset="100%" stop-color="#004D3D" />
+    </radialGradient>
+
+    <!-- Regal Soft Shadow -->
+    <filter id="royalShadow" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="18" stdDeviation="22" flood-color="#1E1912" flood-opacity="0.22" />
+    </filter>
+
+    <filter id="goldShine" x="-30%" y="-30%" width="160%" height="160%">
+      <feGaussianBlur stdDeviation="5" result="glow" />
+      <feMerge>
+        <feMergeNode in="glow" />
+        <feMergeNode in="SourceGraphic" />
+      </feMerge>
+    </filter>
+  </defs>
+
+  <!-- Ambient Royal Floor Aura -->
+  <ellipse cx="450" cy="720" rx="220" ry="24" fill="#000000" opacity="0.12" />
+  <ellipse cx="450" cy="720" rx="140" ry="14" fill="#AA771C" opacity="0.08" />
+
+  <!-- ================= THE ROYAL KING GHOST (SILK & DRAPE) ================= -->
+  <g filter="url(#royalShadow)">
+
+    <!-- Under-Cape / Deep Velvet Interior (Under Folds) -->
+    <path d="M 330 670 Q 360 625 390 660 Q 420 625 450 670 Q 480 625 510 660 Q 540 625 570 670
+             C 520 690 380 690 330 670 Z"
+          fill="url(#silkShadowDeep)" />
+
+    <!-- Main Majestic Phantom Silk Cloak -->
+    <path d="M 450 250
+             C 340 250 280 340 270 470
+             C 260 560 220 640 250 680
+             C 268 705 305 685 330 655
+             C 355 625 375 625 395 655
+             C 415 680 435 680 450 655
+             C 465 680 485 680 505 655
+             C 525 625 545 625 570 655
+             C 595 685 632 705 650 680
+             C 680 640 640 560 630 470
+             C 620 340 560 250 450 250 Z"
+          fill="url(#silkBody)"
+          stroke="#F3EDE2"
+          stroke-width="1.8" />
+
+    <!-- Luxurious Silk Fabric Cascades & Folds (Sculpting the Royal Gown) -->
+    <!-- Left Major S-Curve Fold -->
+    <path d="M 345 350
+             C 320 420 310 520 330 655"
+          fill="none" stroke="url(#silkFoldLeft)" stroke-width="4.5" stroke-linecap="round" />
+    <path d="M 345 350
+             C 320 420 310 520 330 655"
+          fill="none" stroke="#FFFFFF" stroke-width="1.5" stroke-linecap="round" opacity="0.8" />
+
+    <!-- Left Flank Swag Fold -->
+    <path d="M 285 460
+             C 275 530 255 610 250 680"
+          fill="none" stroke="url(#silkFoldLeft)" stroke-width="3" opacity="0.7" />
+
+    <!-- Left Inner Lapel Fold -->
+    <path d="M 390 380
+             C 375 460 370 540 395 655"
+          fill="none" stroke="url(#silkFoldLeft)" stroke-width="3.5" stroke-linecap="round" />
+
+    <!-- Center Regal Pleat / Spine Fold -->
+    <path d="M 450 330
+             C 445 420 440 520 450 655"
+          fill="none" stroke="#D3C7B2" stroke-width="2.5" opacity="0.6" />
+    <path d="M 450 330
+             C 445 420 440 520 450 655"
+          fill="none" stroke="#FFFFFF" stroke-width="1" opacity="0.9" />
+
+    <!-- Right Inner Lapel Fold -->
+    <path d="M 510 380
+             C 525 460 530 540 505 655"
+          fill="none" stroke="url(#silkFoldRight)" stroke-width="3.5" stroke-linecap="round" />
+
+    <!-- Right Major S-Curve Fold -->
+    <path d="M 555 350
+             C 580 420 590 520 570 655"
+          fill="none" stroke="url(#silkFoldRight)" stroke-width="4.5" stroke-linecap="round" />
+    <path d="M 555 350
+             C 580 420 590 520 570 655"
+          fill="none" stroke="#FFFFFF" stroke-width="1.5" stroke-linecap="round" opacity="0.8" />
+
+    <!-- Right Flank Swag Fold -->
+    <path d="M 615 460
+             C 625 530 645 610 650 680"
+          fill="none" stroke="url(#silkFoldRight)" stroke-width="3" opacity="0.7" />
+
+    <!-- Royal Ermine Collar Silhouette (Subtle Golden Filigree Line around Shoulders) -->
+    <path d="M 345 375 Q 450 425 555 375"
+          fill="none" stroke="url(#luxGoldMain)" stroke-width="1.5" stroke-dasharray="2,5" opacity="0.6" />
+
+    <!-- ================= THE MONARCH'S CHILLED GAZE ================= -->
+    <!-- Regal, Elegant, Slanted Almond Eyes with Golden Aura -->
+    <!-- Left Sovereign Eye -->
+    <g>
+      <ellipse cx="400" cy="365" rx="14" ry="19" fill="#1C1814" transform="rotate(-6 400 365)" />
+      <!-- Golden Ambient Core -->
+      <ellipse cx="400" cy="364" rx="7" ry="11" fill="url(#luxGoldMain)" transform="rotate(-6 400 365)" />
+      <!-- White Pupil Glint -->
+      <circle cx="398" cy="360" r="3" fill="#FFFFFF" />
+    </g>
+
+    <!-- Right Sovereign Eye -->
+    <g>
+      <ellipse cx="500" cy="365" rx="14" ry="19" fill="#1C1814" transform="rotate(6 500 365)" />
+      <!-- Golden Ambient Core -->
+      <ellipse cx="500" cy="364" rx="7" ry="11" fill="url(#luxGoldMain)" transform="rotate(6 500 365)" />
+      <!-- White Pupil Glint -->
+      <circle cx="502" cy="360" r="3" fill="#FFFFFF" />
+    </g>
+
+    <!-- Royal Forehead Mark (Single Brilliant Golden Teardrop / Bindi of Kings) -->
+    <path d="M 450 322 C 447 328 444 333 444 336 C 444 340 447 343 450 343 C 453 343 456 340 456 336 C 456 333 453 328 450 322 Z"
+          fill="url(#luxGoldBright)" />
+  </g>
+
+  <!-- ================= THE IMPERIAL MONARCH CROWN ================= -->
+  <!-- Authentic, High-Luxury Royal Crown (Rolex / Imperial Dynasty Grade) -->
+  <g id="imperialMonarchCrown" filter="url(#goldShine)">
+
+    <!-- Velvet Cap Interior (Deep Imperial Crimson) -->
+    <path d="M 340 238
+             C 340 170 380 145 450 142
+             C 520 145 560 170 560 238 Z"
+          fill="url(#royalVelvet)" />
+
+    <!-- Velvet Folds / Creases inside Crown -->
+    <path d="M 410 238 Q 425 180 448 145" fill="none" stroke="#3D0007" stroke-width="4" opacity="0.6" />
+    <path d="M 490 238 Q 475 180 452 145" fill="none" stroke="#3D0007" stroke-width="4" opacity="0.6" />
+
+    <!-- Crown Golden Arches (Intersecting Imperial Arches) -->
+    <!-- Left Converging Arch -->
+    <path d="M 335 220 Q 375 145 448 135 L 452 135 Q 385 145 345 224 Z"
+          fill="url(#luxGoldBright)" stroke="#AA771C" stroke-width="0.8" />
+    <!-- Right Converging Arch -->
+    <path d="M 565 220 Q 525 145 452 135 L 448 135 Q 515 145 555 224 Z"
+          fill="url(#luxGoldMain)" stroke="#6E4807" stroke-width="0.8" />
+
+    <!-- Crown Filigree Spires / Fleur-de-Lis & Cross Peaks -->
+    <!-- Central Grand Cross & Orb (Monde) at Zenith -->
+    <circle cx="450" cy="128" r="9" fill="url(#luxGoldMain)" stroke="#FFF8D6" stroke-width="1.2" />
+    <!-- Sovereign Orb Equator & Arch -->
+    <line x1="441" y1="128" x2="459" y2="128" stroke="#FFFFFF" stroke-width="1.2" />
+    <path d="M 450 119 L 450 128" stroke="#FFFFFF" stroke-width="1.2" />
+    <!-- Royal Diamond Cross Atop Orb -->
+    <path d="M 448 102 L 452 102 L 452 119 L 448 119 Z" fill="url(#luxGoldBright)" />
+    <path d="M 442 108 L 458 108 L 458 112 L 442 112 Z" fill="url(#luxGoldBright)" />
+    <!-- Cross Center Brilliant Diamond -->
+    <circle cx="450" cy="110" r="2.2" fill="#FFFFFF" />
+
+    <!-- Outer Spires & Pearls -->
+    <!-- Far Left Finial Pearl -->
+    <circle cx="328" cy="200" r="5" fill="url(#pearlShine)" />
+    <polygon points="325,204 331,204 334,235 322,235" fill="url(#luxGoldMain)" />
+
+    <!-- Mid-Left Fleur-de-lis Spire -->
+    <circle cx="375" cy="175" r="6" fill="url(#pearlShine)" />
+    <path d="M 368 180 Q 375 195 365 210 L 385 210 Q 375 195 382 180 Z" fill="url(#luxGoldBright)" />
+    <polygon points="364,210 386,210 388,240 362,240" fill="url(#luxGoldMain)" />
+
+    <!-- Central Grand Spire -->
+    <polygon points="432,238 468,238 462,175 450,160 438,175" fill="url(#luxGoldBright)" stroke="#FFF8D6" stroke-width="1" />
+    <!-- Ruby Inset in Center Spire -->
+    <ellipse cx="450" cy="202" rx="5" ry="7" fill="url(#royalRuby)" stroke="#FFF8D6" stroke-width="0.8" />
+
+    <!-- Mid-Right Fleur-de-lis Spire -->
+    <circle cx="525" cy="175" r="6" fill="url(#pearlShine)" />
+    <path d="M 518 180 Q 525 195 515 210 L 535 210 Q 525 195 532 180 Z" fill="url(#luxGoldMain)" />
+    <polygon points="514,210 536,210 538,240 512,240" fill="url(#luxGoldDark)" />
+
+    <!-- Far Right Finial Pearl -->
+    <circle cx="572" cy="200" r="5" fill="url(#pearlShine)" />
+    <polygon points="569,204 575,204 578,235 566,235" fill="url(#luxGoldDark)" />
+
+    <!-- MAIN CROWN BASE CIRCLET (Heavy Solid 24K Gold Band) -->
+    <!-- Lower Rim Band Shadow -->
+    <path d="M 320 248 Q 450 268 580 248 L 580 258 Q 450 278 320 258 Z" fill="url(#luxGoldDark)" />
+    <!-- Main Crown Front Band -->
+    <path d="M 320 238 Q 450 258 580 238 L 580 254 Q 450 274 320 254 Z"
+          fill="url(#luxGoldMain)"
+          stroke="#FFF8D6"
+          stroke-width="1.2" />
+
+    <!-- Pearl Trim along Top Edge of Band -->
+    <g fill="url(#pearlShine)">
+      <circle cx="335" cy="242" r="3" />
+      <circle cx="360" cy="245" r="3" />
+      <circle cx="385" cy="248" r="3" />
+      <circle cx="410" cy="250" r="3" />
+      <circle cx="435" cy="251" r="3" />
+      <circle cx="450" cy="251.5" r="3.5" />
+      <circle cx="465" cy="251" r="3" />
+      <circle cx="490" cy="250" r="3" />
+      <circle cx="515" cy="248" r="3" />
+      <circle cx="540" cy="245" r="3" />
+      <circle cx="565" cy="242" r="3" />
+    </g>
+
+    <!-- Alternating Precious Royal Jewels Set on the Golden Circlet -->
+    <!-- Emerald Left -->
+    <ellipse cx="370" cy="254" rx="6" ry="4.5" fill="url(#royalEmerald)" stroke="#FFF8D6" stroke-width="0.6" />
+    <!-- Ruby Mid-Left -->
+    <ellipse cx="410" cy="258" rx="6.5" ry="5" fill="url(#royalRuby)" stroke="#FFF8D6" stroke-width="0.6" />
+    <!-- Giant Solitaire Diamond at Center -->
+    <polygon points="450,253 456,260 450,267 444,260" fill="#FFFFFF" stroke="url(#luxGoldBright)" stroke-width="0.8" />
+    <circle cx="450" cy="260" r="1.5" fill="#38BDF8" />
+    <!-- Ruby Mid-Right -->
+    <ellipse cx="490" cy="258" rx="6.5" ry="5" fill="url(#royalRuby)" stroke="#FFF8D6" stroke-width="0.6" />
+    <!-- Emerald Right -->
+    <ellipse cx="530" cy="254" rx="6" ry="4.5" fill="url(#royalEmerald)" stroke="#FFF8D6" stroke-width="0.6" />
+  </g>
+
+  <!-- ================= LUXURY HAUTE-COUTURE TYPOGRAPHY ================= -->
+  <!-- "BLANK PAPER" In High-End Luxury Serif (Rolex / Cartier / Vogue Style) -->
+  <g transform="translate(450, 830)">
+    <!-- Primary Luxury Brand Wordmark -->
+    <text x="0" y="0"
+          text-anchor="middle"
+          font-family="'Playfair Display', 'Didot', 'Bodoni MT', 'Cinzel', 'Baskerville', Georgia, serif"
+          font-size="44"
+          font-weight="700"
+          letter-spacing="0.42em"
+          fill="#1C1814">
+      BLANK PAPER
+    </text>
+
+    <!-- Subtle 24K Gold Metallic Accent Shadow on Text -->
+    <text x="0.5" y="-0.5"
+          text-anchor="middle"
+          font-family="'Playfair Display', 'Didot', 'Bodoni MT', 'Cinzel', 'Baskerville', Georgia, serif"
+          font-size="44"
+          font-weight="700"
+          letter-spacing="0.42em"
+          fill="url(#luxGoldMain)"
+          opacity="0.35">
+      BLANK PAPER
+    </text>
+
+    <!-- Delicate Luxury Crown Jewel Divider -->
+    <line x1="-120" y1="26" x2="-25" y2="26" stroke="url(#luxGoldMain)" stroke-width="1.2" />
+    <circle cx="0" cy="26" r="3" fill="url(#luxGoldBright)" />
+    <line x1="25" y1="26" x2="120" y2="26" stroke="url(#luxGoldMain)" stroke-width="1.2" />
+  </g>
+</svg>

@@ -1,0 +1,25 @@
+# Consumer Protection Act, 2019
+
+## Overview and Purpose
+The Consumer Protection Act, 2019 replaced the old Consumer Protection Act, 1986. It establishes the Central Consumer Protection Authority (CCPA) to promote, protect, and enforce the rights of consumers, regulate unfair trade practices, misleading advertisements, and provides a streamlined three-tier dispute redressal mechanism.
+
+## Section 2(7) - Definition of Consumer
+A "consumer" is any person who buys any goods or hires/avails of any services for a consideration which has been paid or promised or partly paid. It includes offline and online (e-commerce) transactions, but excludes a person who obtains goods for resale or for any commercial purpose (except self-employment livelihood).
+
+## Section 2(9) - Consumer Rights
+The Act guarantees six fundamental consumer rights:
+1. The right to be protected against marketing of goods, products or services which are hazardous to life and property.
+2. The right to be informed of quality, quantity, potency, purity, standard and price of goods or services.
+3. The right to be assured of access to a variety of goods or services at competitive prices.
+4. The right to be heard and assured that consumer interests will receive due consideration.
+5. The right to seek redressal against unfair trade practices or restrictive trade practices or unscrupulous exploitation.
+6. The right to consumer awareness and education.
+
+## Section 2(47) - Unfair Trade Practice
+Includes false representation regarding quality, standard, grade, or sponsorship of goods/services, false warranty/guarantee, misleading price statements, non-issuance of bill/cash memo, and refusing to take back defective goods or refund money within the period stipulated.
+
+## Three-Tier Dispute Redressal Commissions (Pecuniary Jurisdiction)
+1. District Consumer Disputes Redressal Commission (DCDRC): Entertains complaints where value of goods or services paid does not exceed Fifty Lakh Rupees (Rs. 50 Lakhs).
+2. State Consumer Disputes Redressal Commission (SCDRC): Entertains complaints where value exceeds Rs. 50 Lakhs but does not exceed Two Crore Rupees (Rs. 2 Crores), and appeals against District Commission orders.
+3. National Consumer Disputes Redressal Commission (NCDRC): Entertains complaints where value exceeds Two Crore Rupees (Rs. 2 Crores), and appeals against State Commission orders.
+E-filing of complaints through the 'edaakhil' portal is legally permitted.

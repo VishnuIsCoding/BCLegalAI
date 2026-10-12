@@ -1,0 +1,19 @@
+# Indian Contract Act, 1872
+
+## Section 2(h) - Definition of Contract
+An agreement enforceable by law is a contract. An agreement arises when an offer (proposal) is accepted with valid consideration. If an agreement cannot be enforced by law, it is void under Section 2(g).
+
+## Section 2(d) - Consideration
+When, at the desire of the promisor, the promisee or any other person has done or abstained from doing, or does or abstains from doing, or promises to do or to abstain from doing, something, such act or abstinence or promise is called a consideration for the promise. In Indian law, consideration may move from the promisee or any other person (doctrine of constructive consideration). Past consideration is valid in India.
+
+## Section 10 - What Agreements are Contracts
+All agreements are contracts if they are made by the free consent of parties competent to contract, for a lawful consideration and with a lawful object, and are not hereby expressly declared to be void.
+
+## Section 11 - Who are Competent to Contract
+Every person is competent to contract who is of the age of majority according to the law to which he is subject, and who is of sound mind, and is not disqualified from contracting by any law to which he is subject. An agreement entered into by a minor is void ab initio (Mohori Bibee v. Dharmodas Ghose).
+
+## Section 73 - Compensation for Loss or Damage Caused by Breach of Contract
+When a contract has been broken, the party who suffers by such breach is entitled to receive, from the party who has broken the contract, compensation for any loss or damage caused to him thereby, which naturally arose in the usual course of things from such breach, or which the parties knew, when they made the contract, to be likely to result from the breach of it. Such compensation is not to be given for any remote and indirect loss or damage sustained by reason of the breach. This embodies the rule in Hadley v. Baxendale.
+
+## Section 74 - Compensation for Breach of Contract where Penalty Stipulated for
+When a contract has been broken, if a sum is named in the contract as the amount to be paid in case of such breach, or if the contract contains any other stipulation by way of penalty, the party complaining of the breach is entitled, whether or not actual damage or loss is proved to have been caused thereby, to receive from the party who has broken the contract reasonable compensation not exceeding the amount so named or the penalty stipulated for.

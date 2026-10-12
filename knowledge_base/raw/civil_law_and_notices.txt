@@ -1,0 +1,19 @@
+# Civil Law, Legal Notices, and Injunctions in India
+
+## Legal Notice - Nature and Purpose
+A legal notice is a formal written communication sent by an advocate on behalf of a client to an opposing party informing them of legal grievances, stating the cause of action, demanding compliance or restitution within a specified period (typically 15 to 30 days), and declaring the intent to initiate civil or criminal legal proceedings upon non-compliance.
+
+## Essential Elements of a Legal Notice
+1. Identity: Complete names, descriptions, and addresses of the sender and recipient.
+2. Facts and Grievance: Clear chronological statement of facts constituting the cause of action.
+3. Legal Relief/Demand: Specific relief claimed (e.g., payment of outstanding dues, rectification of breach, cessation of infringement).
+4. Time Frame: A reasonable stipulated time period to respond or comply (commonly 15 to 30 days).
+5. Consequence of Failure: Express notification that failure to comply will result in appropriate legal remedies at the recipient's cost and consequence.
+
+## Statutory Legal Notices under Specific Acts
+1. Section 80 of Code of Civil Procedure, 1908 (CPC): Mandatory two-month prior written notice to the Government or a public officer before instituting any suit against them in respect of any act purporting to be done in their official capacity.
+2. Section 138 of Negotiable Instruments Act, 1881: Mandatory statutory demand notice within 30 days of receiving information from the bank regarding dishonour/bounce of a cheque. The drawer has 15 days from notice receipt to pay; if unpaid, a criminal complaint may be filed within 1 month thereafter.
+
+## Civil Injunctions under Specific Relief Act, 1963 and CPC
+1. Temporary Injunction (Order 39, Rules 1 and 2 of CPC): An interlocutory order granted by court during the pendency of a suit to restrain the defendant from causing damage, alienation, or breach. The applicant must prove three ingredients: (a) Prima facie case, (b) Balance of convenience in applicant's favor, and (c) Irreparable injury if injunction is not granted.
+2. Perpetual Injunction (Section 38 Specific Relief Act, 1963): Granted by decree after a full trial on merits to perpetually prevent breach of an obligation existing in favor of the plaintiff.

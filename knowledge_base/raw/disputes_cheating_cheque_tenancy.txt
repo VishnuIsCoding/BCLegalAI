@@ -1,0 +1,44 @@
+# Common Indian Legal Disputes, Fraud Recovery, Cheque Dishonour, Tenancy, and Employment Law
+
+## Cheating, Fraud, and Cybercrime in India
+1. Cheating under BNS (Section 318 BNS 2023 / Section 420 IPC):
+   Whoever cheats and thereby dishonestly induces the person deceived to deliver any property, or to make, alter or destroy the whole or any part of a valuable security, is punishable with imprisonment of either description for a term which may extend to 7 years, and shall also be liable to fine.
+2. Online Cyber Fraud & Impersonation (Sections 66C and 66D IT Act, 2000):
+   Cheating by personation using any communication device or computer resource carries imprisonment up to 3 years and a fine up to Rs. 1 lakh.
+3. Urgent Legal Remedies for Financial Scam / Cheating Victims:
+   - Golden Hours Reporting: Immediately call National Cyber Crime Helpline '1930' or lodge a report on the National Cyber Crime Reporting Portal (cybercrime.gov.in) to trigger automatic banking freeze on suspect beneficiary bank accounts.
+   - FIR under Section 173 BNSS 2023 (formerly Section 154 CrPC) at the local police station or Cyber Crime Police Station. Zero FIR can be lodged at any police station across India irrespective of jurisdiction.
+   - Complaint to Magistrate: If police refuse to register FIR, submit a representation to the Superintendent of Police under Section 173(4) BNSS, or file a complaint before the Judicial Magistrate under Section 175(3) BNSS (formerly Section 156(3) CrPC) or Section 223 BNSS.
+
+## Dishonour of Cheque (Section 138 Negotiable Instruments Act, 1881)
+1. Statutory Grounds:
+   Where any cheque drawn by a person on an account maintained with a banker for payment of any amount of money is returned unpaid, either because of the insufficiency of funds or exceeding arrangements, such person shall be deemed to have committed an offence.
+2. Punishment:
+   Imprisonment for a term which may extend to 2 years, or with fine which may extend to twice the amount of the cheque, or with both.
+3. Mandatory Procedural Conditions and Timeline:
+   - Cheque Presentation: Cheque must be presented to the bank within its validity period (3 months from issuance date).
+   - Bank Memo: Complainant receives written return memo noting reasons (e.g., 'Funds Insufficient').
+   - Statutory Notice: Payee must issue a formal legal demand notice in writing to the drawer within 30 days of receiving the return memo.
+   - 15-Day Cure Period: The drawer has 15 calendar days from receipt of the notice to pay the full cheque amount.
+   - Filing Complaint: If payment is not made within 15 days, cause of action arises. A criminal complaint under Section 142 NI Act must be filed within 1 month thereafter before the Judicial Magistrate First Class or Metropolitan Magistrate having territorial jurisdiction.
+4. Interim Compensation (Section 143A NI Act):
+   The trial court may order the drawer of the cheque to deposit interim compensation not exceeding 20% of the cheque amount.
+
+## Landlord-Tenant Disputes and Security Deposit Recovery
+1. Return of Security Deposit:
+   The security deposit is held in trust by the landlord and must be refunded upon the tenant peacefully surrendering possession, subject only to deductions for mutually agreed unpaid rent or actual physical damages (excluding normal wear and tear).
+2. Remedies for Unlawful Withholding:
+   - Send a formal statutory legal demand notice demanding refund with interest within 15 days.
+   - Institute a Summary Suit under Order XXXVII of the Code of Civil Procedure, 1908 (CPC) for recovery of liquidated debt, or approach the Rent Authority under the applicable State Tenancy / Rent Control Act or Model Tenancy Act.
+3. Eviction Protections:
+   A landlord cannot forcibly evict a tenant, lock premises, or cut off essential amenities (water/electricity). Eviction can only be sought through lawful eviction petition on recognized statutory grounds (e.g., non-payment of rent, bonafide personal requirement, sub-letting without consent).
+
+## Employment Disputes and Unpaid Salary Recovery
+1. Unpaid Salary and Terminal Benefits:
+   Withholding earned wages or salary violates the Payment of Wages Act, 1936, the Industrial Disputes Act, 1947, and the employment contract.
+2. Legal Recourse:
+   - Issue a formal legal notice through an advocate demanding unpaid salary, notice pay, and reimbursement within 15 days.
+   - Approach the Labour Commissioner or file an online grievance via the Ministry of Labour & Employment SAMADHAN portal.
+   - Recovery application under Section 33C(2) of the Industrial Disputes Act, 1947, or Summary Suit under Order 37 CPC in Civil Court.
+3. Gratuity (Payment of Gratuity Act, 1972):
+   Payable to employees who have rendered continuous service for not less than 5 years upon termination, retirement, or resignation, calculated at 15 days' wages for every completed year of service.

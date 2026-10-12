@@ -1,0 +1,29 @@
+# Current Indian Criminal Law Framework (BNS & BNSS) with Transition Context
+
+## Legislative Overview and Status of Laws in Force
+As of July 1, 2024, the criminal law framework in India has been modernized:
+1. The Bharatiya Nyaya Sanhita, 2023 (BNS) replaced the colonial Indian Penal Code, 1860 (IPC) for substantive criminal offences.
+2. The Bharatiya Nagarik Suraksha Sanhita, 2023 (BNSS) replaced the Code of Criminal Procedure, 1973 (CrPC) for procedural criminal law.
+3. The Bharatiya Sakshya Adhiniyam, 2023 (BSA) replaced the Indian Evidence Act, 1872.
+Note: Offences committed prior to July 1, 2024 continue to be investigated, tried, and sentenced under IPC and CrPC provisions. Offences committed on or after July 1, 2024 are governed by BNS and BNSS.
+
+## First Information Report (FIR) - Section 173 BNSS (Formerly Section 154 CrPC)
+Under Section 173 of the Bharatiya Nagarik Suraksha Sanhita, 2023 (BNSS):
+1. Every information relating to the commission of a cognizable offence, if given orally to an officer in charge of a police station, shall be reduced to writing and signed by the informant.
+2. Zero FIR: Information can be given irrespective of the territorial jurisdiction of the police station where the offence occurred, and shall be transferred to the jurisdictional police station.
+3. E-FIR / Electronic Communication: Information can be given electronically, provided it is signed within three days by the person giving it.
+4. Preliminary Enquiry: In cases punishable with imprisonment between 3 to 7 years, a preliminary enquiry may be conducted within 14 days before proceeding with full investigation, subject to prior permission of a Deputy Superintendent of Police.
+5. Remedy on Refusal: If the police station in-charge refuses to record the FIR, the aggrieved person may send substance of the information to the Superintendent of Police under Section 173(4) BNSS, or approach the Magistrate under Section 175(3) BNSS (formerly Section 156(3) CrPC).
+
+## Bail Provisions - Chapter XXXV BNSS (Sections 478 to 485 BNSS, Formerly Sections 436 to 439 CrPC)
+Bail is a mechanism to secure the release of an accused person from custody upon furnishing an undertaking or security/bond to appear before the court.
+1. Bailable Offences (Section 478 BNSS / Formerly Sec 436 CrPC): In bailable offences, bail is a matter of absolute statutory right. The accused must be released on furnishing adequate bail bonds or personal recognizance.
+2. Non-Bailable Offences (Section 480 BNSS / Formerly Sec 437 CrPC): Bail in non-bailable offences is discretionary. Courts consider gravity of offence, likelihood of fleeing, tampering with witnesses, and severity of punishment.
+3. Anticipatory Bail (Section 482 BNSS / Formerly Sec 438 CrPC): Direction for grant of bail to a person apprehending arrest. An application must be made before the High Court or Sessions Court. The court may impose conditions such as cooperating with interrogation and not leaving India.
+4. Relief for First-Time Offenders / Undertrials (Section 479 BNSS / Formerly Sec 436A CrPC): A first-time offender (never previously convicted) who has undergone detention for up to one-third of the maximum period of imprisonment shall be released on bail on a personal bond.
+
+## Common Offence Mapping (BNS vs. IPC)
+- Cheating: Defined under Section 318 BNS (formerly Section 415/420 IPC). Punishable with imprisonment up to 7 years and fine.
+- Criminal Breach of Trust: Defined under Section 316 BNS (formerly Section 405/406 IPC).
+- Defamation: Defined under Section 356 BNS (formerly Section 499/500 IPC), now offering community service as an alternative punishment.
+- Murder: Defined under Section 101 BNS (formerly Section 300/302 IPC).

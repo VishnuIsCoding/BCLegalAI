@@ -1,0 +1,39 @@
+# Criminal Bail, Maintenance, Domestic Violence, Family Law, and Property Inheritance in India
+
+## Anticipatory Bail and Criminal Bail Procedures
+1. Anticipatory Bail (Section 482 BNSS 2023 / Formerly Section 438 CrPC):
+   - Definition: Direction for grant of bail to a person having reasonable apprehension of arrest in a non-bailable offence.
+   - Forum: Application must be filed before the Sessions Court or the High Court.
+   - Judicial Considerations: Courts examine gravity and seriousness of accusation, criminal antecedents of the applicant, possibility of applicant fleeing from justice, and whether the accusation appears motivated to injure or humiliate.
+   - Interim Protection: Courts frequently grant interim anticipatory bail or protection against coercive action pending final disposal, conditional upon applicant cooperating with police interrogation.
+2. Regular Bail (Section 480 & 483 BNSS 2023 / Formerly Sections 437 & 439 CrPC):
+   - Applied after an accused has been arrested or remanded to police/judicial custody.
+   - Factors: Severity of punishment, character of evidence, risk of witness tampering, and health/medical grounds.
+3. Default Bail / Statutory Bail (Section 187 BNSS 2023 / Formerly Section 167(2) CrPC):
+   - Indefeasible statutory right to release on bail if police fail to file the chargesheet within 60 days (for offences punishable up to 10 years) or 90 days (for offences punishable with death, life imprisonment, or 10+ years).
+
+## Maintenance for Wives, Children, and Parents (Section 144 BNSS 2023 / Section 125 CrPC)
+1. Statutory Right to Maintenance:
+   If any person having sufficient means neglects or refuses to maintain his wife (unable to maintain herself), legitimate or illegitimate minor children, or father/mother unable to maintain themselves, a Magistrate of the First Class may order monthly maintenance allowance.
+2. Interim Maintenance:
+   The court must endeavor to dispose of the application for interim maintenance within 60 days from the date of service of notice to the respondent.
+3. Enforcement:
+   Warrant for recovery of arrears of maintenance can be issued, and default may result in imprisonment up to one month for each month's unpaid maintenance.
+
+## Domestic Violence Remedies (Protection of Women from Domestic Violence Act, 2005 - PWDVA)
+1. Broad Scope of Domestic Violence:
+   Includes physical abuse, sexual abuse, verbal and emotional abuse, and economic abuse (depriving of financial resources or stridhan).
+2. Key Statutory Reliefs under Section 12 Application:
+   - Section 18 Protection Orders: Prohibiting respondent from committing acts of domestic violence, entering place of employment, or communicating with the aggrieved woman.
+   - Section 19 Residence Orders: Restraining respondent from dispossessing the woman from the shared household, regardless of whether she has any legal right, title, or equity in the premises.
+   - Section 20 Monetary Relief: Directing payment for medical expenses, loss of earnings, and maintenance.
+   - Section 21 Custody Orders: Temporary custody of children to the aggrieved woman.
+   - Section 23 Ex-Parte Interim Orders: Magistrate has power to pass immediate ex-parte orders on affidavit.
+
+## Hindu Succession and Ancestral Property Rights
+1. Equal Coparcenary Rights for Daughters (Section 6 Hindu Succession Act, 1956, as amended in 2005):
+   - Under the landmark Supreme Court ruling in Vineeta Sharma v. Rakesh Sharma (2020), daughters have equal coparcenary rights by birth in ancestral property with the same rights and liabilities as sons, irrespective of whether the father was alive on September 9, 2005.
+2. Partition of Ancestral Property:
+   Any coparcener or co-owner may demand partition and, upon refusal, file a Civil Suit for Partition and Separate Possession before the Civil Court having territorial and pecuniary jurisdiction.
+3. Execution and Validity of Wills (Indian Succession Act, 1925):
+   A valid Will under Section 63 must be in writing, signed or marked by the testator, and attested by at least two witnesses in the testator's presence.

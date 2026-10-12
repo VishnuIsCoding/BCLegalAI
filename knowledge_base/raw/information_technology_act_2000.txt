@@ -1,0 +1,19 @@
+# Information Technology Act, 2000 (Amended)
+
+## Overview and Legal Framework
+The Information Technology Act, 2000 (IT Act) provides legal recognition for electronic transactions, e-commerce, digital signatures, and establishes offences relating to computer systems, data theft, hacking, and cybercrimes in India.
+
+## Section 43 - Penalty and Compensation for Damage to Computer System
+Provides liability for unauthorized access, downloading or copying data without permission, introducing viruses/malware, damaging data or computer networks, or denying authorized access. The offender is liable to pay damages by way of compensation to the affected person.
+
+## Section 43A - Compensation for Failure to Protect Data
+Where a body corporate, possessing, dealing or handling any sensitive personal data or information (SPDI) in a computer resource which it owns, controls or operates, is negligent in implementing and maintaining reasonable security practices and procedures and thereby causes wrongful loss or wrongful gain to any person, such body corporate is liable to pay damages by way of compensation to the affected person.
+
+## Section 66 - Computer Related Offences (Hacking)
+If any person, dishonestly or fraudulently, does any act referred to in Section 43, he shall be punishable with imprisonment for a term which may extend to three years or with fine which may extend to five lakh rupees, or with both.
+
+## Section 66D - Cheating by Personation by using Computer Resource
+Whoever, by means for any communication device or computer resource, cheats by personation, shall be punished with imprisonment of either description for a term which may extend to three years and shall also be liable to fine which may extend to one lakh rupees. This applies to online financial frauds, phishing, and fake profiles.
+
+## Section 79 - Intermediary Liability and Safe Harbor
+An intermediary (such as social media platforms, cloud hosts, ISPs) shall not be liable for any third party information, data, or communication link made available or hosted by it, provided the intermediary's function is limited to providing access and it exercises 'due diligence' while discharging its duties under the IT Rules, and expeditiously removes or disables access upon receiving actual knowledge of unlawful content.
